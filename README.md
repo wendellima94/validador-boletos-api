@@ -39,3 +39,7 @@ Obs: A data de vencimento pode ser nula.
     "message": "Linha digitável inválida!",
 }
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
