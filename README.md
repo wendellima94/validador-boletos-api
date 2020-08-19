@@ -6,28 +6,16 @@ Javascript / Node.js / Express.js
 
 ## Endpoints
 
-#### Validar linha digitável do boleto
+### Validar linha digitável do boleto
 
 GET /pagamento/boleto?linha=XXXXX
 
-###
-
-###
-
-###
-
-Query Params:
+#### Query Params:
 
 **linha** (string)
 Código da linha digitável do boleto, apenas números.
 
-###
-
-###
-
-###
-
-Responses:
+#### Responses:
 
 **200 OK**
 
