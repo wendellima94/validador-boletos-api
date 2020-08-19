@@ -10,14 +10,22 @@ Javascript / Node.js / Express.js
 
 GET /pagamento/boleto?linha=XXXXX
 
-####
+###
+
+###
+
+###
 
 Query Params:
 
 **linha** (string)
 Código da linha digitável do boleto, apenas números.
 
-####
+###
+
+###
+
+###
 
 Responses:
 
